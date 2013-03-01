@@ -1,4 +1,4 @@
-Technologie internetowe
+Technologie internetowe nr 1
 
 Znaczniki
 
@@ -9,7 +9,9 @@ Znaczniki
 ·h
 
 Szablon pliku html5:
+
 ```html```
+
 <!DOCTYPE html>
 <html lang="pl">
 <head><meta charset="utf-8"><title>Szablon strony HTML5</title></head>
