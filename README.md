@@ -10,7 +10,7 @@ Znaczniki
 
 Szablon pliku html5:
 
-```html```
+```html
 
 <!DOCTYPE html>
 <html lang="pl">
@@ -23,5 +23,13 @@ Szablon pliku html5:
 </ol>
 </body>
 </html>
+
+***ala*** ma kota
+**ala** ma kota
+*ala* ma kota
+
+
+
+
 
 
