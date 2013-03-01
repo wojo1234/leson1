@@ -4,4 +4,6 @@ Znaczniki
 
 ·p
 ·u1,o1
-·li
+  ·li
+·img
+·h
